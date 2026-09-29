@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "nombreComun": "Champiñón común",
+    "nombreCientifico": "Agaricus bisporus",
+    "categoria": "Comestible",
+    "descripcion": "Una de las especies de hongos comestibles más cultivadas y consumidas.",
+    "imagen": "https://images.unsplash.com/photo-1504545102780-26774c1bb073"
+  },
+  {
+    "id": 2,
+    "nombreComun": "Hongo ostra",
+    "nombreCientifico": "Pleurotus ostreatus",
+    "categoria": "Comestible",
+    "descripcion": "Hongo comestible conocido por su forma característica y crecimiento en madera.",
+    "imagen": "https://images.unsplash.com/photo-1603105552930-1e4a1f3f8c0e"
+  },
+  {
+    "id": 3,
+    "nombreComun": "Amanita muscaria",
+    "nombreCientifico": "Amanita muscaria",
+    "categoria": "Tóxico",
+    "descripcion": "Especie reconocida por su sombrero rojo con manchas blancas.",
+    "imagen": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4"
+  },
+  {
+    "id": 4,
+    "nombreComun": "Hongo azul",
+    "nombreCientifico": "Clitocybe odora",
+    "categoria": "Otro",
+    "descripcion": "Especie utilizada como ejemplo para probar el registro desde el backend.",
+    "imagen": ""
+  },
+  {
+    "id": 5,
+    "nombreComun": "amarillo",
+    "nombreCientifico": "agaricus",
+    "categoria": "Medicinal",
+    "descripcion": "a",
+    "imagen": "https://lacasadelassetas.com/blog/wp-content/uploads/2023/11/Leucocoprinus-birnbaumii-03.jpg"
+  },
+  {
+    "id": 6,
+    "nombreComun": "Setas",
+    "nombreCientifico": "A",
+    "categoria": "Comestible",
+    "descripcion": "sombrero",
+    "imagen": "https://pymstatic.com/93097/conversions/Setas-default_webp.webp"
+  },
+  {
+    "id": 7,
+    "nombreComun": "Moho",
+    "nombreCientifico": "a",
+    "categoria": "Tóxico",
+    "descripcion": "m",
+    "imagen": "https://pymstatic.com/93096/conversions/Moho-default_webp.webp"
+  },
+  {
+    "id": 8,
+    "nombreComun": "a",
+    "nombreCientifico": "a",
+    "categoria": "Comestible",
+    "descripcion": "a",
+    "imagen": "https://pymstatic.com/93099/conversions/Psilocybe-default_webp.webp"
+  }
+]
